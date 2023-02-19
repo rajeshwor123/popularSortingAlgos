@@ -1,1 +1,1 @@
-# popularSortingAlgos, simple sortings in java
+# popularSortingAlgos, simple sorting algos in java
